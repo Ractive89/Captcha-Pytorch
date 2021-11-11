@@ -1,4 +1,4 @@
-captcha_pytorch深度学习识别验证码
+Captcha Pytorch深度学习识别验证码
 =========
 
 本项目致力于使用神经网络来识别验证码。
